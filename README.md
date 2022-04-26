@@ -1,4 +1,4 @@
-# python_workshop
+# python_workshop網頁爬蟲工作坊教學文件
 
 ## Python Installation & Setup Guide:
 https://realpython.com/installing-python/
@@ -26,7 +26,6 @@ https://github.com/mozilla/geckodriver/releases/tag/v0.26.0
 
 <br>
 
-
 ## 這裹提供一些自我學習的網址推薦
 
 #### 學習Python 基礎語法:
@@ -40,3 +39,7 @@ http://zh-tw.learnlayout.com/
 
 #### Selenium教程
 https://selenium-python.readthedocs.io/
+
+
+作者： raywong
+copyright 2022
